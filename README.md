@@ -1,2 +1,2 @@
 # APS-materials
-Here All thr codes and materials used for APS will be there
+Here All the codes and materials used for APS will be there
